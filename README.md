@@ -9,10 +9,15 @@ Dokucuoglu Yazılım Program Merkezi, şirket içi kullanım için geliştirilmi
 ## 📋 İçindekiler
 
 -[ 🔍 Genel Bakış](#genel-bakış)
+
 -[ ✨ Özellikler](#özellikler)
+
 -[ 💻 Kurulum](#kurulum)
+
 -[ 🚀 Kullanım](#kullanım)
+
 -[ 📊 Mevcut Programlar](#mevcut-programlar)
+
 
 ## 🔍 Genel Bakış
 
