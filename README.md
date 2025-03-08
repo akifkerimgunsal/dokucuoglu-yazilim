@@ -15,13 +15,13 @@ Dokucuoglu Yazılım Program Merkezi, şirket içi kullanım için geliştirilmi
 - [Mevcut Programlar](#mevcut-programlar)
 
 
-## 🔍 Genel Bakış
+## Genel Bakış
 
 Dokucuoglu Yazılım Program Merkezi, şirket içinde kullanılan çeşitli programları tek bir merkezi arayüzden erişilebilir hale getiren bir uygulamadır. Modern ve kullanıcı dostu arayüzü sayesinde, kullanıcılar ihtiyaç duydukları programlara kolayca erişebilir ve işlemlerini hızlıca gerçekleştirebilirler.
 
 Program Merkezi, modüler bir yapıya sahiptir ve yeni programlar kolayca eklenebilir. Her program, kendi dizininde bağımsız olarak çalışabilir ve Program Merkezi üzerinden erişilebilir.
 
-## ✨ Özellikler
+## Özellikler
 
 - **Modern ve Kullanıcı Dostu Arayüz**: Sezgisel ve estetik bir kullanıcı deneyimi sunar
 - **Modüler Yapı**: Yeni programlar kolayca eklenebilir ve mevcut programlar güncellenebilir
@@ -29,7 +29,7 @@ Program Merkezi, modüler bir yapıya sahiptir ve yeni programlar kolayca eklene
 - **Tam Ekran Desteği**: Geniş ekranlarda optimum kullanım için tam ekran modu
 - **Duyarlı Tasarım**: Farklı ekran boyutlarına uyum sağlayan esnek arayüz
 
-## 💻 Kurulum
+## Kurulum
 
 ### Gereksinimler
 
@@ -68,7 +68,7 @@ Program Merkezi'ni başlatmak için:
 
 Program başladığında, sol panelde mevcut programların listesini göreceksiniz. Bir programa tıkladığınızda, sağ panelde o programın detayları ve çalıştırma seçenekleri görüntülenecektir.
 
-📊## Mevcut Programlar
+## Mevcut Programlar
 
 ### 1. Aylık Fatura Doğrulama Programı
 
