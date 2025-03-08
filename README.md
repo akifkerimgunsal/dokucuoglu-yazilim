@@ -68,7 +68,7 @@ Program Merkezi'ni başlatmak için:
 
 Program başladığında, sol panelde mevcut programların listesini göreceksiniz. Bir programa tıkladığınızda, sağ panelde o programın detayları ve çalıştırma seçenekleri görüntülenecektir.
 
-## 📊 Mevcut Programlar
+## Mevcut Programlar
 
 ### 1. Aylık Fatura Doğrulama Programı
 
