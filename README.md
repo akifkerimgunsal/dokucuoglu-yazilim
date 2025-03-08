@@ -53,7 +53,7 @@ Program Merkezi, modüler bir yapıya sahiptir ve yeni programlar kolayca eklene
    pip install -r requirements.txt
    ```
 
-## 🚀 Kullanım
+## Kullanım
 
 Program Merkezi'ni başlatmak için:
 
